@@ -1,9 +1,13 @@
 _repo: The-Family-at-Misrule_48304
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Johnson, A. J. (Alfred J.)
     gutenberg_agent_id: '26498'
     url: http://www.gutenberg.org/2009/agents/26498
+covers:
+- cover_type: archival
+  image_path: 48304-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Turner, Ethel Sybil
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1561
     wikipedia: http://en.wikipedia.org/wiki/Ethel_Turner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48304#The-Family-at-Misrule
 gutenberg_issued: '2015-02-18'
 gutenberg_type: Text
 identifiers:
